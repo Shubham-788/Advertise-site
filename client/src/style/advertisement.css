@@ -1,0 +1,38 @@
+.advertisement-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.business-card {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.business-name {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.business-header {
+    font-size: 20px;
+    color: #555;
+}
+
+.business-description {
+    font-size: 16px;
+    color: #777;
+    margin-top: 10px;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    width: 100%;
+}
